@@ -1,0 +1,20 @@
+# Librerias que voy a usar para el proyecto AnimeFull
+
+# Streamlit lo voy a usar para hacer la parte visual del sistema.
+# Con esto quiero que el programa no se vea tan simple, sino como un sistema de tienda,
+# con botones, menus, tablas, colores y tarjetas de productos.
+streamlit
+
+# Pandas me va a servir para manejar la informacion en forma de tablas.
+# Lo usare para organizar datos como productos, clientes, pedidos, ventas e inventario.
+pandas
+
+# Plotly lo usare para agregar graficas en el panel principal del sistema.
+# La idea es que se puedan ver cosas como productos mas vendidos,
+# ventas simuladas o productos con bajo stock de una forma mas visual.
+plotly
+
+# Pillow me servira para trabajar con imagenes dentro del sistema.
+# Lo usare para cargar logos, imagenes de productos o recursos visuales
+# para que la interfaz se vea mas completa.
+pillow
