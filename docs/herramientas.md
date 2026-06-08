@@ -6,6 +6,10 @@ python sera la herramienta principal, ya que en este se programaran, los agentes
 
 Streamlit lo utilizare para crear la parte visual y estetica del proyecto la idea principal que tengo es que se vea , como un sistema de tienda departamental, donde se veran los datos, imagenes, botones, tablas, colores, entre otros.
 
+Antes de hacer toda la interfaz en Streamlit, tambien usare Figma para crear el prototipo visual. En Figma voy a acomodar mejor las pantallas, colores, botones, imagenes y secciones principales, para despues usar ese diseño como guia al programarlo.
+
+Figma lo usare para hacer el prototipo visual del sistema. Esto me ayudara a planear como se vera AnimeFull antes de programarlo, y tenga un diseño mas parecido a un sistema real de tienda.
+
 SQlite lo utilizare como la base de datos local, en el cual se encarga de guardar, los productos, clientes, pedidos, ventas y alertas de inventario.
 
 Pandas sera para llevar un orden o manejo de informacion en forma de tablas, como un inventario o historial de pedidos.

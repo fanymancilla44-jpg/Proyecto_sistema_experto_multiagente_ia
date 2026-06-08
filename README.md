@@ -167,6 +167,7 @@ El sistema recomienda pedir mas figuras de Naruto porque el stock actual es bajo
 - Flask o FastAPI
 - Streamlit o Gradio
 - GitHub
+- Figma
 - VS Code
 - Librerias de inteligencia artificial
 
